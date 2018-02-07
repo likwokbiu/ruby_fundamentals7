@@ -1,0 +1,4 @@
+#<Person:0x007fcaf70c58b8 @name="Bill", @emtion={:happiness=>3, :stress=>2, :fear=>1}>
+I am feeling a high amount of happiness.
+I am feeling a medium amount of stress.
+I am feeling a low amount of fear.
